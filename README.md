@@ -1,4 +1,5 @@
-# Stocks! (https://kaur1081.github.io/Stocks/)
+# Stocks 
+!(https://kaur1081.github.io/Stocks/)
 
 ## Overview
 
